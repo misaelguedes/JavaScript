@@ -22,3 +22,49 @@ Comando para converter números em dinheiro:
 var.toLocaleString('pt-br', {style: 'currency', currency: 'BRL'}) - Reais
 var.toLocaleString('pt-br', {style: 'currency', currency: 'USD'}) - Dólares
 var.toLocaleString('pt-br', {style: 'currency', currency: 'EUR'}) - Euros
+
+Operadores de aritmética 
+(Ordem de precedência)
+()
+**
+* / %
++ -
+
+Simplificação de operadores de atribuição
+n = n + 4 (n += 4)
+n = n - 5 (n -= 5)
+Segue-se a ordem para todos os operadores
+
+Incremento
+var n = 10
+n++ = 11
+n-- = 10
+
+Operadores relacionais:
+>
+<
+>=
+<=
+==
+!=
+
+Operadores de identidade:
+5 == 5 true
+5 == '5' true
+5 === '5' false
+5 === 5 true
+
+Operadores lógicos:
+! negação
+&& conjunção
+|| disjunção (ou)
+
+Ordem de precedência:
+!
+&&
+||
+
+Operador ternário:
+?
+:
+(teste ?verdadeiro :falso)
