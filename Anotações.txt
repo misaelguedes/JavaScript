@@ -1,0 +1,24 @@
+Criar alerta: window.alert('digite a mensagem')
+Criar confirmação: window.confirm('digite a mensagem')
+Criar pergunta: window.prompt('digite a mensagem')
+
+Converter String em número: 
+Number.parseInt (Para números inteiros)
+Number.parseFloat (Para números reais)
+Number (Deixa o JS decidir o valor)
+
+Converter número em String:
+()toString
+String()
+
+var.length: Quantos caracteres a string tem
+var.toUpperCase(): Tudo para "MAIÚSCULAS"
+var.toLowerCase(): Tudo para "minúsculas"
+
+Substituir ponto por vírgula:
+var.toFixed(2).replace('.', ',')
+
+Comando para converter números em dinheiro:
+var.toLocaleString('pt-br', {style: 'currency', currency: 'BRL'}) - Reais
+var.toLocaleString('pt-br', {style: 'currency', currency: 'USD'}) - Dólares
+var.toLocaleString('pt-br', {style: 'currency', currency: 'EUR'}) - Euros
