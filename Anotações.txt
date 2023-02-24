@@ -68,3 +68,10 @@ Operador ternário:
 ?
 :
 (teste ?verdadeiro :falso)
+
+Elementos DOM podem ser selecionados por:
+Marca
+ID
+Nome
+Classe
+Seletor
