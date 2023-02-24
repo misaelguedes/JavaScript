@@ -75,3 +75,11 @@ ID
 Nome
 Classe
 Seletor
+
+Eventos DOM:
+mouseenter - Quando o mouse entra
+mousemove - Quando o mouse se move dentro
+mousedown - Quando clica e segura dentro
+mouseup - Quando solta o botão de clique
+click - Quando clica
+mouseout - Quando o mouse sai
