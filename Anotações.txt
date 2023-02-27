@@ -83,3 +83,10 @@ mousedown - Quando clica e segura dentro
 mouseup - Quando solta o botão de clique
 click - Quando clica
 mouseout - Quando o mouse sai
+
+Condições:
+if (condição) {
+  true
+} else {
+  false
+}
