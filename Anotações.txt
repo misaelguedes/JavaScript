@@ -90,3 +90,18 @@ if (condição) {
 } else {
   false
 }
+
+Repetições:
+Estrutura de repetição com teste lógico no início:
+while (condição) {
+
+}
+
+Estrutura de repetição com teste lógico no final:
+do {
+
+} while (condição)
+
+for (   ;   ;   ) {
+
+}
