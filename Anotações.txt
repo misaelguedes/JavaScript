@@ -105,3 +105,23 @@ do {
 for (   ;   ;   ) {
 
 }
+
+for (     in    ) {
+
+}
+
+Variáveis compostas devem ser capazes de armazenar vários valores em uma mesma estrutura.
+Variável composta, é uma variável que tem vários elementos, cada elemento é composto por seu valor,
+e por uma chave de identificação.
+Variável pode ser identificada como var ou let.
+var a = [1, 2, 3]
+Para adicionar valores:
+num[3] = 6
+Para adicionar o último valor:
+num.push(7)
+Para saber o comprimento do vetor:
+num.length
+Para colocar elementos em ordem crescente:
+num.sort()
+Para buscar valores:
+num.indexOf(7)
