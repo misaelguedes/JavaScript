@@ -125,3 +125,12 @@ Para colocar elementos em ordem crescente:
 num.sort()
 Para buscar valores:
 num.indexOf(7)
+
+Estudar daqui pra frente...
+functions
+objetos
+modularização
+RegEx
+JSON
+AJAX
+NodeJS
