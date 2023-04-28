@@ -2,6 +2,10 @@ Criar alerta: window.alert('digite a mensagem')
 Criar confirmação: window.confirm('digite a mensagem')
 Criar pergunta: window.prompt('digite a mensagem')
 
+Fazer comentários:
+// COMENTÁRIO EM ÚNICA LINHA
+/* */ PARA VÁRIAS LINHAS
+
 Converter String em número: 
 Number.parseInt (Para números inteiros)
 Number.parseFloat (Para números reais)
